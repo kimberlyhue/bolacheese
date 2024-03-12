@@ -1,0 +1,7 @@
+# 
+
+# Group 2
+User-agent: *
+Allow: /
+
+Sitemap: https://www.bolacheese.com/sitemap.xml

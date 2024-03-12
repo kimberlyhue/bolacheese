@@ -1,0 +1,1365 @@
+@media only screen and (max-width:1699px) {
+
+    .tf-heading-bg .heading-bg-style,
+    .tf-heading-bg .heading-bg-style02 {
+        left: 0 !important;
+        font-size: 150px !important
+    }
+
+    .wrap-img-food-inner .img-food-1,
+    .wrap-img-food-inner .img-food-2 {
+        padding-left: 0 !important
+    }
+}
+
+@media only screen and (max-width:1550px) {
+    .slider-item .page-tittle-slider {
+        padding: 0 5%
+    }
+
+    .content-slider {
+        padding: 0 !important
+    }
+
+    .page-title-style2 .slider-item .page-tittle-slider .heading-tittle h1 {
+        margin-right: 0 !important
+    }
+
+    .slider-style3 .page-tittle-slider .content-slider {
+        padding-top: 150px !important
+    }
+
+    .tf-section.wrap-our-menu-style2 .imgbg1 {
+        top: 45%
+    }
+
+    .wrap-form-reservation {
+        padding: 20px !important
+    }
+
+    .wrap-img-food-inner .img-food-1,
+    .wrap-img-food-inner .img-food-3 {
+        position: relative;
+        left: 0;
+        top: 0
+    }
+
+    .wrap-img-food-inner .img-food-1,
+    .wrap-img-food-inner .img-food-3 {
+        width: 25%
+    }
+
+    .wrap-img-food-inner .img-food-2 {
+        width: 50%
+    }
+
+    .tf-section.wrap-testimonials-style02 .swiper-button-prev {
+        left: 50px
+    }
+
+    .tf-section.wrap-testimonials-style02 .swiper-button-next {
+        right: 50px
+    }
+}
+
+@media only screen and (max-width:1366px) {
+    .header-contact {
+        right: 20% !important
+    }
+
+    .slider-style2 .page-tittle-slider .images-slider2 {
+        padding-top: 15% !important
+    }
+
+    .tf-section.wrap-about-us-style02 {
+        height: 900px
+    }
+
+    .wrap-brand-style03-style2 .owl-carousel .owl-nav.disabled {
+        display: none
+    }
+
+    .tf-bottom-inner {
+        padding-top: 70px !important
+    }
+
+    .form-reservation {
+        padding: 40px
+    }
+}
+
+.footer-bar-6 u {
+    background-color: rgba(255, 255, 255, .2)
+}
+
+.footer-bar-6 {
+    margin-left: -3px
+}
+
+.footer-bar-6 span {
+    font-size: 10px !important
+}
+
+.footer-bar-6 .active-nav em,
+.footer-bar-6 .circle-nav strong {
+    background-image: linear-gradient(to bottom, #5d9cec, #4a89dc) !important
+}
+
+.footer-bar-6 .circle-nav span {
+    font-size: 11px !important;
+    margin-top: -8px !important
+}
+
+.footer-bar-6 .circle-nav i {
+    transform: translateY(-21px) translateX(0);
+    color: #fff !important;
+    opacity: 1 !important;
+    font-size: 20px !important;
+    position: relative;
+    z-index: 2
+}
+
+.footer-bar-6 .circle-nav svg {
+    width: 25px !important;
+    height: 25px !important;
+    stroke: #fff !important;
+    fill: rgba(255, 255, 255, .1) !important;
+    transform: translateY(-25px) translateX(-1px) !important;
+    position: relative;
+    z-index: 2
+}
+
+.footer-bar-6 .circle-nav u {
+    position: absolute;
+    left: 0;
+    right: 0;
+    width: 50px;
+    border-radius: 50px;
+    height: 50px;
+    z-index: 0
+}
+
+#footer-bar {
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    z-index: 98;
+    -webkit-backdrop-filter: saturate(180%) blur(20px);
+    backdrop-filter: saturate(180%) blur(20px);
+    background-color: rgb(0 0 0 / 80%);
+    display: flex;
+    min-height: 60px;
+    border: solid 2px #ffc107;
+    text-align: center;
+    transition: transform 350ms ease !important;
+    border-radius: 0;
+    backdrop-filter: saturate(180%) blur(20px);
+    -webkit-backdrop-filter: blur(20px);
+    background: #df0000bf;
+    margin: 13px;
+    border-radius: 15px;
+    padding: 0px;
+}
+
+#footer-bar a {
+    color: #fff;
+    padding-top: 10px;
+    position: relative;
+    flex: 1 1 auto
+}
+
+#footer-bar a span {
+    position: relative;
+    z-index: 2;
+    display: block;
+    font-size: 10px;
+    font-weight: 500;
+    margin-top: 5px;
+    opacity: 0.;
+    font-family: Poppins, sans-serif !important
+}
+
+#footer-bar a i {
+    font-size: 18px;
+    position: relative;
+    z-index: 2
+}
+
+#footer-bar a svg {
+    transform: translateY(-6px)
+}
+
+#footer-bar .badge {
+    font-style: normal;
+    z-index: 5;
+    top: 0;
+    position: absolute;
+    margin-left: 3px;
+    color: #fff !important;
+    width: 18px;
+    text-align: center;
+    line-height: 18px;
+    padding: 0;
+    padding-left: 0 !important;
+    border-radius: 18px;
+    margin-top: 7px;
+    font-size: 11px
+}
+
+#footer-bar.position-relative {
+    z-index: 2 !important
+}
+
+#footer-bar {
+    height: calc(65px + (constant(safe-area-inset-bottom))*1.1);
+    height: calc(65px + (env(safe-area-inset-bottom))*1.1)
+}
+
+@media only screen and (max-width:768px) {
+    .hero-slider-wrap_halftwo {
+        left: 0;
+        bottom: 60px
+    }
+
+    body {
+        font-family: poppins, -apple-system, system-ui, BlinkMacSystemFont, segoe ui, Roboto, helvetica neue, Arial, sans-serif;
+        font-size: 1rem;
+        font-weight: 400;
+        line-height: 1.5;
+        color: #292b2c;
+        background-color: #fff
+    }
+
+
+    .flex { 
+        display: initial;
+    }
+    }
+
+    div#site-logo {
+        margin: 0 100px 0 100px
+    }
+
+    .footer-style03 #bottom {
+        transform: translateY(0)
+    }
+
+    .gallery-box .hover-effect .content-box .content .sub-heading {
+        margin-top: 20px
+    }
+
+    a {
+        color: #fff;
+        text-decoration: none
+    }
+
+    .top-bar-content p {
+        font-family: poppins, open sans, sans-serif;
+        font-weight: 600;
+        font-size: 15px;
+        color: #fff;
+        margin: 0px 0 0 0
+    }
+
+    #portfolio_horizontal_container,
+    .horizontal-grid-wrap {
+        float: left;
+        width: 100%
+    }
+
+    .horizontal-grid-wrap {
+        overflow: auto !important
+    }
+
+    #portfolio_horizontal_container .portfolio_item,
+    #portfolio_horizontal_container .portfolio_item .grid-item-holder,
+    #portfolio_horizontal_container .portfolio_item .grid-item-holder img {
+        width: 100%;
+        height: auto !important
+    }
+
+    .content-nav li a.ln span,
+    .content-nav li a.rn span,
+    .half-scrollbar,
+    .hero-start-link:after,
+    .hero-start-link:before,
+    .inline-filter-panel .folio-counter,
+    .option-panel .slide-progress-container {
+        display: none
+    }
+
+    .option-panel .swiper-counter {
+        width: inherit;
+        margin-left: 10px
+    }
+
+    .half-hero-wrap h1,
+    .hero-section .section-title h2,
+    .hero-title .section-title h2 {
+        font-size: 35px;
+        line-height: 45px
+    }
+
+    .half-hero-wrap h4 {
+        font-size: 12px;
+        max-width: 350px
+    }
+
+    .fw-carousel-control_container,
+    .inline-filter_title,
+    .to-top-btn {
+        width: 100%
+    }
+
+    .inline-facts-wrap {
+        width: 50%
+    }
+
+    .inline-filter_title {
+        margin-right: 0;
+        margin-bottom: 15px
+    }
+
+    .content-nav {
+        padding: 0 30px
+    }
+
+    .custom-form button {
+        padding: 0 85px 0 45px;
+        outline: 0;
+        border: none;
+        cursor: pointer;
+        -webkit-appearance: none;
+        height: 44px;
+        line-height: 44px;
+        float: left;
+        position: relative;
+        color: #fff;
+        font-size: 10px;
+        text-transform: uppercase;
+        letter-spacing: 2px;
+        font-weight: 400;
+        margin: 60px 0 15px
+    }
+
+    .content-nav_holder:before {
+        width: 100%;
+        background: #2d2d32
+    }
+
+    .content-nav li a.ln,
+    .content-nav li a.rn {
+        padding: 30px 0
+    }
+
+    .list-folio_nav {
+        top: 28px
+    }
+
+    .hor-mob-filter .gallery-filters {
+        position: absolute;
+        bottom: 60px;
+        height: auto !important;
+        display: none;
+        width: 100%;
+        background: #35353a;
+        left: 0;
+        padding: 35px 30px;
+        text-align: left
+    }
+
+    .hor-mob-filter .gallery-filters a {
+        width: 100%;
+        line-height: 35px
+    }
+
+    .hor-mob-filter .round-counter {
+        margin-left: 190px
+    }
+
+    .start-btn {
+        width: 140px
+    }
+
+    @media only screen and (max-width:1199px) {
+
+        .flat-tabs.flat-tabs-category .content-tab .content-inner .image,
+        .widget.widget-Facilities,
+        .widget.widget-Newsletters,
+        .widget.widget-contact {
+            padding-left: 0 !important
+        }
+
+        .about-inner-content-box,
+        .flat-tabs.flat-tabs-category .content-tab .content-inner .image2 {
+            padding-right: 0 !important
+        }
+
+        .no-pd-right {
+            padding-right: 15px !important
+        }
+
+        .no-pd-left {
+            padding-left: 15px !important
+        }
+
+        .col-left-ourmenu {
+            padding-left: 5% !important
+        }
+
+        .col-right-ourmenu {
+            padding-right: 5% !important
+        }
+
+        .padding-left-106,
+        .padding-left21,
+        .padding-left62,
+        .padding-right-121,
+        .padding-right-5,
+        .padding-right-73,
+        .padding-right19,
+        .padding-right61,
+        .team-box-style2.style3 .content .text,
+        .wrap-form-reservation {
+            padding: 0 !important
+        }
+
+        .tf-section.wrap-our-menu .imgbg1,
+        .tf-section.wrap-our-menu .imgbg2 {
+            display: none
+        }
+
+        #footer .tf-footer-inner .col-md-4 {
+            padding: 0 15px !important
+        }
+
+        #sidebar .widget.widget_tags,
+        .widget.widget-list-product,
+        .widget.widget_filter {
+            padding: 15px
+        }
+
+        .slider-style2 .page-tittle-slider .images-slider2 {
+            padding-top: 27% !important
+        }
+
+        .form-subscribe-footer button {
+            right: 0 !important
+        }
+
+        .tf-section.wrap-category .col-md-2 {
+            flex: 0 0 33.33%;
+            max-width: 33.33%
+        }
+
+        .items-shop .item-box,
+        .our-menu-item-style3.style2 .image,
+        .wrap-img-food-inner .img-food-2 {
+            width: 50% !important
+        }
+
+        .items-shop .item-box .item .hover-effect .image img {
+            width: 100%
+        }
+
+        .wrap-img-food-inner .img-food-1,
+        .wrap-img-food-inner .img-food-3 {
+            width: 25% !important
+        }
+
+        .flat-tabs .menu-tab .col-box.col-16 {
+            width: 33.33%;
+            margin-bottom: 20px
+        }
+
+        .tf-section.wrap-category .col-md-2 {
+            margin-bottom: 30px
+        }
+
+        .content-tab.style2 {
+            top: 180%
+        }
+
+        .header-contact,
+        .owl-carousel .owl-dots,
+        .site-header {
+            display: none !important
+        }
+
+        .slider-style2 .page-tittle-slider .images-slider1 {
+            left: 55%
+        }
+
+        .category-box .category-inner .imagebox-content .heading,
+        .filter .price,
+        .margin-right-1,
+        .margin-right-15 {
+            margin: 0
+        }
+
+        .tf-section.wrap-about-us-style02 {
+            padding: 70px 0 !important
+        }
+
+        .wrap-about-us-style02 .imgbg_about1 {
+            margin-top: -350px
+        }
+
+        .category-box .category-inner .imagebox-content,
+        .our-menu-item-style3,
+        .our-menu-item-style3.active,
+        .our-menu-item-style3.style2,
+        .our-menu-item-style3:hover {
+            padding: 20px 15px
+        }
+
+        .image-box-about3 {
+            padding: 0 5%
+        }
+
+        .testimonials-inner-style3 .flaticon-quotation {
+            right: 25px
+        }
+
+        .about-inner-image-box .image img,
+        .comment-form label.error {
+            position: relative !important;
+            left: 0
+        }
+
+        .our-menu-item-style3.style2,
+        .our-menu-item-style3.style2.active {
+            padding-right: 80px !important
+        }
+
+        .our-menu-item-style3.style2 .content-menu-item {
+            padding: 0 15px 15px !important
+        }
+
+        .our-menu-item-style3 .content-menu-item .heading {
+            font-size: 23px
+        }
+
+        .popup-thanks-inner {
+            width: 63%;
+            height: 560px
+        }
+
+        .comment-form label.error {
+            top: 0 !important
+        }
+
+        .newsletters-subscribe .wrap-form-subscibe {
+            width: 80% !important
+        }
+
+        .form-subscribe-footer2 input {
+            width: 55% !important
+        }
+    }
+
+    @media only screen and (max-width:991px) {
+
+        .flat-tabs.flat-tabs-menu .col-tab.flex,
+        .image-box-about3.flex,
+        .mobile-button,
+        .our-menu-item-style3.style2.flex {
+            display: block !important
+        }
+
+        .flat-tabs.flat-tabs-category .menu-tab {
+            position: relative;
+            text-align: center;
+            left: 0;
+            top: 0
+        }
+
+        .slider-style2 .page-tittle-slider .images-slider2 {
+            padding-top: 33% !important
+        }
+
+        .tf-section.wrap-our-menu .col-md-6,
+        .tf-section.wrap-our-menu-style03 .col-md-6,
+        .wrap-about-us-style4 .col-md-5,
+        .wrap-about-us-style4 .col-md-7,
+        .wrap-our-menu-style2 .col-md-6 {
+            -webkit-box-flex: 0;
+            -webkit-flex: 0 0 100%;
+            -ms-flex: 0 0 100%;
+            flex: 0 0 100%;
+            max-width: 100%
+        }
+
+        .category-box .category-inner .image img,
+        .col-box.col-75,
+        .flat-tabs.flat-tabs-category .menu-tab,
+        .flat-tabs.flat-tabs-menu .col-box.col-50,
+        .hover-effect .image img,
+        .image-box-about3 .content-box,
+        .image-box-about3 .image-about,
+        .image-box-about3 .image-about img,
+        .our-shop .col-box.col-25,
+        .team-box .team-hover .image img,
+        .wrap-about-us-style02 .col-40,
+        .wrap-reservation .col-box.col-40 {
+            width: 100% !important
+        }
+
+        .our-menu-item.our-menu-item-style02 {
+            padding: 25px 15px 335px 10px
+        }
+
+        .form-reservation,
+        .newsletters-subscribe {
+            padding: 40px 15px !important
+        }
+
+        .infor-contact {
+            padding: 20px
+        }
+
+        .form-contact,
+        .infor-contact {
+            margin: 0
+        }
+
+        .form-contact {
+            padding: 30px 30px 98px
+        }
+
+        .popup-thanks-inner .title,
+        .wrap-form-style02 {
+            padding: 15px
+        }
+
+        .form-reservation #comment-reply.tf-button {
+            padding: 10px 40px 10px 15px
+        }
+
+        #site-header #site-header-inner .flat-button,
+        .comment-list .children .comment-meta .comment-time {
+            right: 10% !important
+        }
+
+        #site-header #site-header-inner .header-contact {
+            right: 40% !important
+        }
+
+        .form-reservation .comment-form fieldset,
+        .wrap-counter .col-25 {
+            width: 50% !important
+        }
+
+        .about-inner-content-box,
+        .col-left-ourmenu,
+        .col-right-ourmenu,
+        .details_content,
+        .footer-style03 .widget-about,
+        .image-box-about3,
+        .image-box-about3 .content-box,
+        .image-box-about3 .image-about,
+        .image-testimonials .image,
+        .padding-right-24,
+        .padding-right-38,
+        .padding-right-6,
+        .slider-item .page-tittle-slider,
+        .text.padding-right,
+        .tf-img-about,
+        .wrap-testimonials-slider {
+            padding: 0 !important
+        }
+
+        .content-about-us,
+        .content-tab.style2,
+        .flat-tabs.flat-tabs-category .menu-tab li,
+        .form-reservation .btn-submit,
+        .form-reservation .comment-form fieldset,
+        .wrap-counter .col-25 {
+            padding: 0 15px !important
+        }
+
+        .comment-list article .comment-content p {
+            padding-right: 50px
+        }
+
+        .footer-style02 .iconbg1,
+        .footer-style02 .iconbg2,
+        .footer-style02 .iconbg3,
+        .footer-style02 .iconbg4,
+        .owl-carousel .owl-nav,
+        .swiper-button-next,
+        .swiper-button-prev,
+        .swiper-pagination,
+        .testimonials-inner-style3 .flaticon-quotation,
+        .tf-section.wrap-booking .icon-style1,
+        .tf-section.wrap-booking-style02 .icon-style2,
+        .wrap-about-us .iconbg_about,
+        .wrap-about-us-style02 .col-30,
+        .wrap-about-us-style4 .iconbg_about,
+        .wrap-reservation .col-box.col-30 {
+            display: none !important
+        }
+
+        .tf-section.wrap-about-us-style02 {
+            height: auto !important
+        }
+
+        .tf-section.wrap-about-us {
+            padding: 340px 0 70px
+        }
+
+        #footer,
+        .tf-section.blog-style03,
+        .tf-section.menu-product,
+        .tf-section.our-shop,
+        .tf-section.tf-blog,
+        .tf-section.wrap-about-style03,
+        .tf-section.wrap-about-us-style02,
+        .tf-section.wrap-about-us-style4,
+        .tf-section.wrap-category-style02,
+        .tf-section.wrap-category-style03,
+        .tf-section.wrap-gallery,
+        .tf-section.wrap-our-chefs-style02,
+        .tf-section.wrap-our-menu,
+        .tf-section.wrap-our-menu-style03,
+        .tf-section.wrap-reservation,
+        .tf-section.wrap-testimonials,
+        .tf-section.wrap-testimonials-about,
+        .tf-section.wrap-testimonials-style03 {
+            padding: 70px 0 !important
+        }
+
+        .form-reservation .comment-form fieldset {
+            float: left
+        }
+
+        .team-box .team-hover .content .widget.widget_socials li a {
+            width: 27px;
+            height: 27px;
+            line-height: 27px;
+            font-size: 13px
+        }
+
+        .tf-section.wrap-video-popup {
+            padding: 150px 0
+        }
+
+        .tf-section.product-details,
+        .tf-section.wrap-brand,
+        .wrap-form-reservation {
+            padding-bottom: 70px
+        }
+
+        .tf-section.wrap-category .content-section-category {
+            padding-bottom: 40px
+        }
+
+        .menu-out-item .pricing-menu-item {
+            font-size: 38px
+        }
+
+        .our-menu-item-style3.style2 .content-menu-item {
+            padding: 15px !important
+        }
+
+        .flat-tabs-category .col-tab .image2 img,
+        .image-box-about3 .content-box,
+        .menu-out-item,
+        .widget.widget-Facilities,
+        .widget.widget-contact {
+            padding-left: 15px !important
+        }
+
+        .flat-tabs-category .col-tab .image img,
+        .menu-out-item {
+            padding-right: 15px
+        }
+
+        .menu-out-item .content-menu-item .heading,
+        .our-menu-item.our-menu-item-style02 .content-menu-item .heading {
+            font-size: 20px
+        }
+
+        .gallery-box .hover-effect .content-box .content .heading {
+            font-size: 23px
+        }
+
+        .our-menu-item.our-menu-item-style02 .content-menu-item {
+            left: 125px
+        }
+
+        .content-heading-wrap {
+            padding-bottom: 0 !important
+        }
+
+        .team-box-style2 .social-style2 a {
+            font-size: 12px;
+            width: 25px;
+            height: 25px;
+            line-height: 25px;
+            margin-right: 5px
+        }
+
+        .team-box-style3 .social-style2 a {
+            font-size: 12px;
+            width: 35px;
+            height: 35px;
+            line-height: 35px;
+            font-size: 14px
+        }
+
+        #footer .widget,
+        .box.box-countter-chefs,
+        .flat-tabs.flat-tabs-category .menu-tab,
+        .image-box-about3 .image-about,
+        .team-box,
+        .tf-icon-box.tf-icon-box-style02 {
+            margin-bottom: 30px !important
+        }
+
+        #footer .col-md-2,
+        #footer .col-md-3,
+        #footer .col-md-4,
+        #footer .col-md-5,
+        .tf-section.wrap-category-box .col-md-3,
+        .wrap-category-style03 .col-md-3,
+        .wrap-our-chefs .col-md-3,
+        .wrap-our-chefs.style2 .col-md-4 {
+            -webkit-box-flex: 0;
+            -webkit-flex: 0 0 50%;
+            -ms-flex: 0 0 50%;
+            flex: 0 0 50%;
+            max-width: 50%
+        }
+
+        .category-box .category-inner .imagebox-content {
+            padding: 40px 30px
+        }
+
+        .team-box-style2 .content .widget_socials li a,
+        .team-box-style2 .content.active .widget_socials li a {
+            width: 25px !important;
+            height: 25px !important;
+            line-height: 25px !important;
+            font-size: 12px !important
+        }
+
+        .testimonials-inner-style3 {
+            padding: 20px 25px
+        }
+
+        .footer-style03 #scroll-top {
+            left: 40% !important
+        }
+
+        .about-inner-image-box {
+            padding-bottom: 10px;
+            width: 90%;
+            float: right;
+            margin-top: 30px
+        }
+
+        .about-inner-image-box .image img {
+            position: absolute !important;
+            left: 15px
+        }
+
+        .about-inner-image-box .about-box-list {
+            width: 54%;
+            padding: 35px 0 0 75px
+        }
+
+        .about-inner-image-box .box.box-countter-chefs {
+            bottom: 20px
+        }
+
+        .widget.widget_search .search-form .search {
+            padding: 10px 15px !important
+        }
+
+        .widget.widget_search .search-form .icon-search::after {
+            right: 15px !important
+        }
+
+        .product-actions .tf-button {
+            padding: 5px 35px 5px 15px
+        }
+
+        .tf-section.wrap-category {
+            padding: 153px 0 250px
+        }
+
+        .content-tab.style2 {
+            top: 160%
+        }
+
+        .wrap-img-food-inner .img-food-3 {
+            padding-top: 50px
+        }
+
+        #bottom .Copyright,
+        .footer-style03 #bottom .sub-heading-style2 ul,
+        .tf-bottom-inner .widget.widget_socials {
+            width: 100%;
+            text-align: center
+        }
+    }
+
+    @media only screen and (max-width:767px) {
+        .slider-style2 .page-tittle-slider .title.title-style1 {
+            font-size: 70px;
+            line-height: 80px
+        }
+
+        .newsletters-subscribe.flex {
+            display: block
+        }
+
+
+        .top-bar-content p {
+            font-family: poppins, open sans, sans-serif;
+            font-weight: 600;
+            font-size: 15px;
+            color: #fff;
+            margin: 10px 0 0 0;
+        }
+
+        .flex {
+            display: -webkit-box;
+            display: -moz-box;
+            display: -ms-flexbox;
+            display: -webkit-flex;
+            display: initial
+        }
+
+        .page-title-style2 .slider-item .page-tittle-slider .heading-tittle h1,
+        .page-title.page-title-style3 .slider-item .page-tittle-slider .heading-tittle h1,
+        .slider-item .page-tittle-slider .heading-tittle h1 {
+            font-size: 80px !important;
+            line-height: 100px !important
+        }
+
+        #wrapper,
+        .about-inner-image-box .image,
+        .about-inner-image-box .image img,
+        .content-tab.style2 {
+            position: relative !important
+        }
+
+        .about-inner-image-box .image img {
+            top: 0;
+            left: 0 !important
+        }
+
+        .about-inner-image-box {
+            padding-top: 0;
+            padding-right: 0
+        }
+
+        .content-tab.style2 {
+            top: 30px;
+            padding: 0 15px;
+            z-index: -1
+        }
+
+        .wrap-img-food-inner .img-food-1,
+        .wrap-img-food-inner .img-food-2,
+        .wrap-img-food-inner .img-food-3 {
+            margin: 30px 0
+        }
+
+        .tf-section.wrap-brand {
+            padding-bottom: 70px
+        }
+
+        .form-contact {
+            padding: 20px
+        }
+
+        .tf-section.wrap-category,
+        .wrap-img-food {
+            padding: 70px 0 !important
+        }
+
+        .tf-heading-bg .heading-bg-style,
+        .tf-heading-bg .heading-bg-style02 {
+            font-size: 85px !important;
+            line-height: 100px !important
+        }
+
+        .about-inner-image-box.flex,
+        .col-tab.flex,
+        .image-box-about3.flex,
+        .image-form-booking.flex,
+        .wrap-img-food-inner.flex {
+            display: block !important
+        }
+
+        #footer .tf-bottom-inner .Copyright,
+        #footer .tf-bottom-inner .widget.widget_socials,
+        .bottomstyle3 .sub-heading-style2,
+        .form-reservation .btn-submit {
+            text-align: center
+        }
+
+        #footer .col-md-2,
+        #footer .col-md-3,
+        #footer .col-md-4,
+        #footer .col-md-5,
+        .tf-section.wrap-category-box .col-md-3,
+        .wrap-category-style03 .col-md-3,
+        .wrap-our-chefs .col-md-3,
+        .wrap-our-chefs.style2 .col-md-4 {
+            -webkit-box-flex: 0;
+            -webkit-flex: 0 0 100%;
+            -ms-flex: 0 0 100%;
+            flex: 0 0 100%;
+            max-width: 100%
+        }
+
+        .popup-thanks-inner {
+            width: 90%;
+            height: 475px
+        }
+
+        #footer .tf-bottom-inner .Copyright,
+        #footer .tf-bottom-inner .widget.widget_socials,
+        #sidebar .image img,
+        .about-inner-image-box,
+        .about-inner-image-box .image,
+        .about-inner-image-box .image img,
+        .bottomstyle3 .sub-heading-style2,
+        .category-box .image img,
+        .col-25,
+        .col-50,
+        .col-box.col-20,
+        .col-box.col-45,
+        .col-box.col-55,
+        .col-box.col-75,
+        .comment-form.comment-form-style2 .email,
+        .comment-form.comment-form-style2 .name,
+        .comment-form.comment-form-style2 .phone,
+        .flat-tabs .menu-tab .col-box.col-16,
+        .flat-tabs-menu .col-box.col-50,
+        .form-reservation .btn-submit,
+        .gallery-box .hover-effect .image img,
+        .gallery-box .image img,
+        .image-box-about3 .content-box,
+        .image-box-about3 .image-about,
+        .image-box-about3 .image-about img,
+        .image-details .image img,
+        .image-form-booking .image img,
+        .image-reservation img,
+        .image-testimonials .image img,
+        .item.style2 .hover-effect .image img,
+        .items-shop .item-box,
+        .newsletters-subscribe .title,
+        .newsletters-subscribe .wrap-form-subscibe,
+        .slider-style2 .page-tittle-slider .content-slider,
+        .team-box .team-hover .image img,
+        .team-box-style2 .image img,
+        .tf-icon-box.tf-iconbox-category,
+        .tf-img-about img,
+        .wrap-booking .image-form-booking .image,
+        .wrap-booking .image-form-booking .wrap-form,
+        .wrap-form-style02 .comment-form-style02 fieldset,
+        .wrap-img-food-inner .img-food-1,
+        .wrap-img-food-inner .img-food-1 img,
+        .wrap-img-food-inner .img-food-2,
+        .wrap-img-food-inner .img-food-2 img,
+        .wrap-img-food-inner .img-food-3,
+        .wrap-img-food-inner .img-food-3 img,
+        .wrap-reservation .col-box.col-30,
+        .wrap-reservation .col-box.col-40 {
+            width: 100% !important
+        }
+
+        .bottomstyle3 .sub-heading-style2 {
+            text-align: center
+        }
+
+        .comment-form.comment-form-style03 fieldset,
+        .form-reservation button {
+            width: 60%
+        }
+
+        .comment-form.comment-form-style03 fieldset {
+            float: left
+        }
+
+        .about-inner-content-box,
+        .comment-form.comment-form-style2 .email,
+        .comment-form.comment-form-style2 .name,
+        .comment-form.comment-form-style2 .phone,
+        .comment-list article .comment-content p,
+        .image-box-about3,
+        .image-box-about3 .content-box,
+        .image-box-about3 .image-about,
+        .padding-top134,
+        .padding-top15,
+        .padding-top2,
+        .padding-top32,
+        .padding-top55,
+        .popup-thanks-inner .title,
+        .widget.widget-Facilities,
+        .widget.widget-contact,
+        .wrap-img-food-inner .img-food-1,
+        .wrap-img-food-inner .img-food-2,
+        .wrap-img-food-inner .img-food-3 {
+            padding: 0 !important
+        }
+
+        .tf-section.wrap-about-us {
+            padding-top: 70px
+        }
+
+        .page-title-style2 .slider-item .page-tittle-slider .heading-tittle h1 {
+            margin: 0 !important
+        }
+
+        .details_content,
+        .slider-item .page-tittle-slider .wrap-video {
+            margin-top: 20px
+        }
+
+        .newsletters-subscribe .title {
+            margin-bottom: 20px !important
+        }
+
+        #site-header #site-header-inner .flat-button,
+        #site-header #site-header-inner .header-contact,
+        #tf-footer #site-logo-3,
+        .page-tittle-slider .images-slider2,
+        .slider-style2 .page-tittle-slider .images-slider1,
+        .wrap-testimonials-slider .owl-dots {
+            display: none
+        }
+
+        #footer .widget,
+        .about-inner-content-box,
+        .image-box-about3 .image-about,
+        .image-form-booking .wrap-form form .btn-submit,
+        .infor-contact,
+        .team-box,
+        .team-box-style2,
+        .testimonials-style,
+        .tf-section.wrap-about-us .col-md-6 {
+            margin-bottom: 30px
+        }
+
+        .tf-section.wrap-category .col-md-2 {
+            flex: 0 0 100%;
+            max-width: 100%
+        }
+
+        .tf-heading-bg .heading-bg-style {
+            font-size: 86px
+        }
+
+        .about-inner-image-box .about-box-list {
+            padding-left: 30px
+        }
+
+        .menu-out-item.menu-out-items-style02 {
+            padding-left: 15px
+        }
+
+        .menu-out-item.menu-out-items-style02,
+        .no-pd-right {
+            padding-right: 15px !important
+        }
+
+        .slider-style3 .page-tittle-slider .content-slider {
+            padding-top: 200px !important
+        }
+
+        .team-box-style2 .social-style2 a {
+            width: 35px !important;
+            height: 35px !important;
+            line-height: 35px !important;
+            font-size: 15px !important
+        }
+
+        .our-menu-item-style3.style2 .image {
+            width: 40% !important
+        }
+
+        .popup-thanks-inner {
+            padding: 100px 20px
+        }
+    }
+
+    @media only screen and (max-width:490px) {
+        .page-title {
+            padding: 130px 0
+        }
+
+        .form-subscribe-footer2 input,
+        .slider-item .page-tittle-slider .wrap-video {
+            margin: 0 !important
+        }
+
+        .page-title-inner .page-title-heading .heading {
+            font-size: 55px
+        }
+
+        .popup-thanks-inner .title {
+            font-size: 50px
+        }
+
+        .comment-list .children>li .gravatar,
+        .comment-list article .gravatar {
+            margin-right: 15px
+        }
+
+        .comment-list .children>li,
+        .flat-tabs-category .col-tab .image img,
+        .flat-tabs-category .col-tab .image2,
+        .flat-tabs-category .col-tab .image2 img,
+        .image-details .image-inner .col-box.style1,
+        .image-details .image-inner .col-box.style3,
+        .image-details .image-inner .style2,
+        .testimonials-style2 {
+            padding: 0 !important
+        }
+
+        .form-subscribe-footer2 .tf-button {
+            top: 70px;
+            left: 0
+        }
+
+        .newsletters-subscribe {
+            padding: 15px 15px 100px !important
+        }
+
+        .comment-list .children .comment-wrap,
+        .our-menu-item-style3.style2 .content-menu-item {
+            padding-left: 0 !important
+        }
+
+        .about-inner-image-box {
+            padding-top: 0 !important
+        }
+
+        .about-inner-image-box {
+            padding-right: 0 !important
+        }
+
+        .about-inner-image-box .about-box-list,
+        .testimonials-style2 .testimonials-inner {
+            padding: 15px !important
+        }
+
+        .flat-tabs-category .col-tab .image {
+            margin-bottom: 30px
+        }
+
+        .wrap-form-style02 #comment-reply.tf-button {
+            padding: 10px 59px 10px 34px
+        }
+
+        .slider-item .page-tittle-slider .wrap-video {
+            float: left
+        }
+
+        .about-inner-image-box.flex,
+        .col-tab.flex {
+            display: block
+        }
+
+        .comment-list .comment-meta .comment-time,
+        .slider-style2 .icon-bg1,
+        .slider-style2 .icon-bg2,
+        .slider-style2 .icon-bg3,
+        .slider-style2 .icon-bg4 {
+            display: none
+        }
+
+        .about-inner-image-box .about-box-list,
+        .about-inner-image-box .image,
+        .about-inner-image-box .image img,
+        .comment-form.comment-form-style03 fieldset,
+        .flat-tabs-category .col-tab .image img,
+        .flat-tabs-category .col-tab .image2 img,
+        .form-reservation .comment-form fieldset,
+        .form-reservation button,
+        .form-subscribe-footer2 input,
+        .image-details .image-inner .col-box.col-33,
+        .image-details .image-inner img,
+        .menu-out-item .content-menu-item,
+        .menu-out-item .pricing-menu-item,
+        .our-menu-box.mb,
+        .our-menu-box.mb .our-menu-item .pricing-menu-item,
+        .wrap-counter .col-25 {
+            width: 100% !important
+        }
+
+        .image-details .image-inner img {
+            height: 100% !important
+        }
+
+        .tf-heading-bg .heading-bg-style {
+            font-size: 74px
+        }
+
+        .our-menu-item-style3.style2 .image {
+            width: 50% !important
+        }
+
+        .menu-out-item.menu-out-items-style02 .content-menu-item {
+            left: 130px
+        }
+
+        .menu-out-item.menu-out-items-style02 .content-menu-item .sub-heading {
+            padding-right: 140px
+        }
+
+        .breadcrumbs ul {
+            width: 300px
+        }
+
+        .about-inner-image-box .box.box-countter-chefs {
+            right: 30px;
+            width: 300px
+        }
+
+        .btn-show.flat-button.float-right {
+            float: left !important;
+            margin-top: 20px
+        }
+
+        .slider-style3 .page-tittle-slider .content-slider .heading-tittle .sub-title p::before {
+            background-color: #fff
+        }
+
+        .slider-style3 .page-tittle-slider .content-slider .heading-tittle .sub-title p {
+            color: #fff
+        }
+
+        .page-title.page-title-style2 {
+            padding-top: 70px
+        }
+
+        .our-menu-box.mb .our-menu-item {
+            text-align: center;
+            padding: 20px 15px 15px
+        }
+
+        .our-menu-box.mb .our-menu-item .content-menu-item {
+            float: none
+        }
+
+        .about-inner-image-box .box.box-countter-chefs .countter-box {
+            padding-left: 15px
+        }
+
+        .our-menu-item-style3 .content-menu-item {
+            padding-top: 0;
+            padding-left: 15px;
+            padding-right: 0
+        }
+    }
+
+    
+}
